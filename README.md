@@ -36,8 +36,8 @@ These queries are useful for **practicing SQL and improving database query skill
 1. Clone this repository
 
 ```
-git clone https://github.com/Manishdatasci/100-sql-queries-basic-to-advanced.git
-```
+[git clone https://github.com/Manishdatasci/100-sql-queries-basic-to-advanced.git
+](https://github.com/Manishdatasci/100-sql-queries-basic-to-advanced)```
 
 2. Open the `.sql` file in your SQL environment (MySQL, PostgreSQL, SQL Server, etc.)
 
