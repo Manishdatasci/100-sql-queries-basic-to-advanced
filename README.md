@@ -22,10 +22,10 @@ These queries are useful for practicing SQL and improving database query skills.
 
 ## Repository Structure
 
-sql-queries-basic-to-advanced
-│
-├── sql_queries_basic_to_advanced.sql
-└── README.md
+``sql-queries-basic-to-advanced
+ │
+ ├── sql_queries_basic_to_advanced.sql
+ └── README.md ``
 
 ---
 
@@ -34,7 +34,7 @@ sql-queries-basic-to-advanced
 1. Clone this repository
 
 ```
-git clone https://github.com/Manishdatasci/sql-queries-basic-to-advanced.git
+git clone https://github.com/Manishdatasci/100-sql-queries-basic-to-advanced.git
 ```
 
 2. Open the `.sql` file in your SQL environment (MySQL, PostgreSQL, SQL Server, etc.)
