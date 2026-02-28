@@ -3,7 +3,7 @@
 This repository contains **100+ SQL queries** covering concepts from **basic to advanced level**.
 It includes commonly used SQL patterns and problem-solving queries to build a strong foundation in SQL.
 
-These queries are useful for practicing SQL and improving database query skills.
+These queries are useful for **practicing SQL and improving database query skills**.
 
 ---
 
@@ -22,10 +22,12 @@ These queries are useful for practicing SQL and improving database query skills.
 
 ## Repository Structure
 
-``sql-queries-basic-to-advanced
- │
- ├── sql_queries_basic_to_advanced.sql
- └── README.md ``
+```
+100-sql-queries-basic-to-advanced
+│
+├── 100+ BASIC_TO_ADVANCED_SQL_QUERIES_FOR_DATA_ANALYST.sql
+└── README.md
+```
 
 ---
 
@@ -52,7 +54,7 @@ It serves as a collection of important SQL queries for learning and problem solv
 
 ## Author
 
-**Manish Kumar**
+**Manish Kumar Rajak**
 
 GitHub: https://github.com/Manishdatasci
 LinkedIn: https://www.linkedin.com/in/manish-kumar-487121268
